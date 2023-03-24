@@ -1,16 +1,8 @@
-#Fundamental Datatypes
-int
-float
-bool
-str
-list
-tuple
-set
-dict
+#FundamentalDatatype
 
-#Classes -> custom types
+print(type(10//4))
 
-#Specialized Datatypes
 
-#---
-None #mean nothing
+print(type(10/4))
+
+print(2**3) #2^3
