@@ -10,3 +10,8 @@ print(hex(1231));
 
 #HexaDecimal to Decimal
 print(int('0x4cf', 16))
+
+#Decimal to Octal
+print(oct(1231))
+#Octal to decimal
+print(int('0o2347', 8))
