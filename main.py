@@ -1,4 +1,9 @@
-#String immutability
-name= "John"
-name[1] = "a" #error because strings are immutable we can't change the value of a string
-print(name)
+#Built-in functions
+quote = 'to be or not to be'
+quote2 = quote.replace('be', 'me')
+
+print(quote.upper())
+print(quote.capitalize())
+print(quote.find('be'))
+print(quote.replace('be', 'me'))
+print(quote2)
