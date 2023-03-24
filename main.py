@@ -1,6 +1,6 @@
-#Boolean
-true = True
-false = False
-print( bool(0) )#False
-print( bool(1) )#True
-print( bool(0.1)) #True
+#Age
+Birthyear = int(input("Enter your birth year: "))
+
+age = 2022 - Birthyear
+
+print(f"Your age is: {age}")
