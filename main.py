@@ -1,9 +1,6 @@
-#Built-in functions
-quote = 'to be or not to be'
-quote2 = quote.replace('be', 'me')
-
-print(quote.upper())
-print(quote.capitalize())
-print(quote.find('be'))
-print(quote.replace('be', 'me'))
-print(quote2)
+#Boolean
+true = True
+false = False
+print( bool(0) )#False
+print( bool(1) )#True
+print( bool(0.1)) #True
