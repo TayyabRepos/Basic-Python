@@ -1,6 +1,7 @@
-#Age
-Birthyear = int(input("Enter your birth year: "))
+#Password Username
+Username = input("What is your name? ")
+Password = input("What is your password? ")
 
-age = 2022 - Birthyear
+x= len(Password)
 
-print(f"Your age is: {age}")
+print(f'Hello {Username}! Your password is {"*"*x} and {x} letters long')
