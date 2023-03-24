@@ -1,9 +1,12 @@
-#Operator Precedence
+#Complex Datatype
+complex 
+#Decimal to Binary
+print(bin(2131))
+#Binary to decimal
+print(int('0b100001010011', 2))
 
-# Order of precedence
-# ()
-# **
-# */
-# +-
+#Decimal to hexaDecimal
+print(hex(1231));
 
-print((220*2)+2*8**2)
+#HexaDecimal to Decimal
+print(int('0x4cf', 16))
