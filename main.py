@@ -1,7 +1,3 @@
-#Long Sting
-LongString = '''
-This is a long string
-and it continues here
-and it's not over yet
-'''
-print(LongString)
+#Escape Sequence in Python
+weather = "\tIt\'s \"kind of\" sunny \n hope you have a good day!"
+print(weather)
