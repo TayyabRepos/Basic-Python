@@ -1,8 +1,13 @@
-#FundamentalDatatype
+# Math functions
+from cmath import sqrt
+from math import factorial, log
 
-print(type(10//4))
 
 
-print(type(10/4))
-
-print(2**3) #2^3
+print(round(7.7))
+print(abs(-7.7))
+print(factorial(5))
+print(sqrt(25))
+print(pow(2, 3))
+print(max(2, 3))
+print(log(2, 3))
