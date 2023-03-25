@@ -1,9 +1,13 @@
-#Tuples
-#Tuples in immutable
-my_tuples = (1,2,3,4,5,3,3,3)
-new_tuples = my_tuples[1:2]
-print(new_tuples)
-print(my_tuples.index(4))
-a,s,d,f ,*others = my_tuples
-print(s)
+#Set
+#It is unordered collection of unique items
+# my_set = {1,2,3,4,5,5,5 ,7}
+# my_set.add(6)
+# print(my_set)
 
+my_list =[1,2,3,4,5,5,5 ,7]
+
+my_set = set(my_list)
+
+my_list = list(my_set)
+
+print(my_list)
