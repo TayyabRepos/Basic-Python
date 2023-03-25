@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76de2d60-78af-4c4e-8449-f46690e8d05e" name="Changes" comment="">
+    <list default="true" id="76de2d60-78af-4c4e-8449-f46690e8d05e" name="Changes" comment="Key properties in Dictionary">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -37,7 +38,30 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Basic Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Tayyab\Desktop\Leaning Python\Basic Python\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9 (Basic Python)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Basic Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,6 +84,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Unnamed" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,7 +103,145 @@
       <workItem from="1679651484161" duration="157000" />
       <workItem from="1679670012572" duration="4991000" />
       <workItem from="1679685189676" duration="117000" />
+      <workItem from="1679685334159" duration="8256000" />
+      <workItem from="1679737877207" duration="1371000" />
+      <workItem from="1679742456709" duration="301000" />
+      <workItem from="1679742834133" duration="4962000" />
     </task>
+    <task id="LOCAL-00001" summary="LongString">
+      <created>1679685387905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679685387905</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#Escape Sequence in Python">
+      <created>1679685918378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679685918378</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Formatted String">
+      <created>1679686335669</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679686335669</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Strings indexers">
+      <created>1679686717111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679686717111</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Strings indexers full">
+      <created>1679686881310</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679686881310</updated>
+    </task>
+    <task id="LOCAL-00006" summary="String immutability check">
+      <created>1679687080047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679687080047</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Built-in functions">
+      <created>1679690640881</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679690640881</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Boolean">
+      <created>1679690891880</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679690891880</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Age calculate">
+      <created>1679691317451</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679691317451</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Password Username">
+      <created>1679692276984</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679692276984</updated>
+    </task>
+    <task id="LOCAL-00011" summary="List">
+      <created>1679695239527</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679695239527</updated>
+    </task>
+    <task id="LOCAL-00012" summary="List slicing">
+      <created>1679695938048</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679695938048</updated>
+    </task>
+    <task id="LOCAL-00013" summary="List Methods">
+      <created>1679742998002</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679742998002</updated>
+    </task>
+    <task id="LOCAL-00014" summary="List sort and sorted()">
+      <created>1679744928504</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679744928504</updated>
+    </task>
+    <task id="LOCAL-00015" summary="List sort and reverse()">
+      <created>1679745044774</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679745044774</updated>
+    </task>
+    <task id="LOCAL-00016" summary=".join()">
+      <created>1679746219802</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679746219802</updated>
+    </task>
+    <task id="LOCAL-00017" summary="List Unpacking">
+      <created>1679746616950</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679746616950</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Dictionary">
+      <created>1679747716684</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679747716684</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Key properties in Dictionary">
+      <created>1679748185545</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679748185545</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +258,40 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LongString" />
+    <MESSAGE value="#Escape Sequence in Python" />
+    <MESSAGE value="Formatted String" />
+    <MESSAGE value="Strings indexers" />
+    <MESSAGE value="Strings indexers full" />
+    <MESSAGE value="String immutability check" />
+    <MESSAGE value="Built-in functions" />
+    <MESSAGE value="Boolean" />
+    <MESSAGE value="Age calculate" />
+    <MESSAGE value="Password Username" />
+    <MESSAGE value="List" />
+    <MESSAGE value="List slicing" />
+    <MESSAGE value="List Methods" />
+    <MESSAGE value="List sort and sorted()" />
+    <MESSAGE value="List sort and reverse()" />
+    <MESSAGE value=".join()" />
+    <MESSAGE value="List Unpacking" />
+    <MESSAGE value="Dictionary" />
+    <MESSAGE value="Key properties in Dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Key properties in Dictionary" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Basic_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1679685302626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Basic_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1679747691765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
