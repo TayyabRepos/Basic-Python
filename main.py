@@ -1,28 +1,12 @@
-# Dictionary is unorderd key paird value
+#Key in dictionary should be immutable
+#Key in dictionary should be unique otherwise it will overwrite
 
-dictionary = {
-    'a': [1, 2, 3],
-    'b': 'Hello',
-    'c': True
+dictionary={
+    '12':[1,2],
+    True: 'Hello',
+    'is_Magic':False
 }
 
-new_list = [
-    {
-        'a': [1, 2, 3],
-        'b': 'Hello',
-        'c': True
-    },
-    {
-        'a': [4, 5, 6],
-        'b': 'Hello',
-        'c': True
-    },
-    {
-        'a': [7, 6, 9],
-        'b': 'Hello',
-        'c': True
-    }
-]
-
-list = new_list[0]['a'][2]
-print(list)
+print(dictionary['12'])
+print(dictionary[True])
+print(dictionary['is_Magic'])
