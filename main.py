@@ -1,14 +1,10 @@
-#List Methods
-basket=[1,2,3,4,5]
+# List Methods
+basket = [75,1,5,2,6,12,14,33,22,4,6]
+# basket.sort() #Modify basket
+# print(sorted(basket)) #Creates new list
+# print(basket)
 
-
-basket.append(12)
-basket.extend([100,101])
-basket.insert(8, 102)
-print(basket);
-basket.remove(102)
-print(basket)
-basket.pop(5)
-print(basket)
-basket.reverse()
-print(basket)
+new_list=basket[:]
+sorted(new_list)
+new_list.sort()
+print(new_list)
