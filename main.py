@@ -1,8 +1,5 @@
-# Coditions
-is_old= True
-is_licensed=True
+# Ternary Condition
+is_friend = False
 
-if is_old and is_licensed:
-    print('You are old enough to drive a car')
-else:
-    print('You are not old enough to drive a car')
+# Code
+MessageAllowed = print( "You can message him now") if is_friend else print("You cannot message him")
