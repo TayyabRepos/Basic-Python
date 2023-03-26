@@ -1,15 +1,11 @@
-#Duplicates
+#Highest even
 
-some_list= ['a','b','c','b','d','m','n','n']
 
-duplicates = []
+def highest_even(my_list):
+    even_list = []
+    for item in my_list:
+        if item % 2 ==0:
+            even_list.append(item)
+    return max(even_list)
 
-for value in some_list:
-    if some_list.count(value)>1:
-        if value not in duplicates:
-            duplicates.append(value)
-print(duplicates)
-# result = set(duplicates)
-# some_list = list(result.union())
-# print(some_list)
-
+print(highest_even([12,41,33,53,51,60,61]))
