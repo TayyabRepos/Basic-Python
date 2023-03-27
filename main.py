@@ -1,9 +1,11 @@
-#Reduce
-from functools import reduce
+#List comprehention
 
-my_list=[1,2,3,4,5,6,7,8]
-your_list=[9,10,11,12,13,14,15,16]
+my_list1 = [char for char in 'hello']
+my_list2 = [num for num in range(1,101)]
+my_list3 = [num**2 for num in range(1,101)]
+my_list4 = [num for num in range(1,101) if num%2 ==0]
 
-# print(list(zip(my_list, your_list)))
-
-print(reduce(lambda x,y: x+y, my_list))
+print(my_list1)
+print(my_list2)
+print(my_list3)
+print(my_list4)
