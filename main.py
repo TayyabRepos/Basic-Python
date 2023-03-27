@@ -1,11 +1,13 @@
-#Highest even
+#Map, filter
 
+my_list=[1,2,3,4,5,6,7,8]
 
-def highest_even(my_list):
-    even_list = []
-    for item in my_list:
-        if item % 2 ==0:
-            even_list.append(item)
-    return max(even_list)
+def multiplyBy2(item):
+    return item*2
 
-print(highest_even([12,41,33,53,51,60,61]))
+def only_odd(item):
+    return item%2 != 0
+
+print(list(map(multiplyBy2, my_list)))
+
+print(list(filter(only_odd, my_list)))
