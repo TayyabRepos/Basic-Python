@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76de2d60-78af-4c4e-8449-f46690e8d05e" name="Changes" comment="Key properties in Dictionary">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="76de2d60-78af-4c4e-8449-f46690e8d05e" name="Changes" comment="comprehension exercise">
+      <change afterPath="$PROJECT_DIR$/utility.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,16 @@
       <workItem from="1679685334159" duration="8256000" />
       <workItem from="1679737877207" duration="1371000" />
       <workItem from="1679742456709" duration="301000" />
-      <workItem from="1679742834133" duration="4962000" />
+      <workItem from="1679742834133" duration="6580000" />
+      <workItem from="1679752284929" duration="1371000" />
+      <workItem from="1679756158446" duration="2495000" />
+      <workItem from="1679767004645" duration="7295000" />
+      <workItem from="1679788461096" duration="2931000" />
+      <workItem from="1679829239257" duration="649000" />
+      <workItem from="1679830460621" duration="634000" />
+      <workItem from="1679861558853" duration="3167000" />
+      <workItem from="1679894143940" duration="1427000" />
+      <workItem from="1679952031710" duration="2229000" />
     </task>
     <task id="LOCAL-00001" summary="LongString">
       <created>1679685387905</created>
@@ -241,7 +250,140 @@
       <option name="project" value="LOCAL" />
       <updated>1679748185545</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Dictionary.get('')">
+      <created>1679748552651</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679748552651</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Dictionary built-in methods">
+      <created>1679749237620</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679749237620</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Tuples">
+      <created>1679757755248</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679757755248</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Sets">
+      <created>1679759269252</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679759269252</updated>
+    </task>
+    <task id="LOCAL-00024" summary="#Sets methods">
+      <created>1679770090232</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679770090232</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Conditions">
+      <created>1679771697016</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679771697016</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Ternary Condition">
+      <created>1679772606743</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679772606743</updated>
+    </task>
+    <task id="LOCAL-00027" summary="is operator">
+      <created>1679789113843</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679789113843</updated>
+    </task>
+    <task id="LOCAL-00028" summary="for loops">
+      <created>1679790016649</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679790016649</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Range">
+      <created>1679791417076</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679791417076</updated>
+    </task>
+    <task id="LOCAL-00030" summary="RangeFirst GUI in python">
+      <created>1679829886328</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679829886328</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Duplicates">
+      <created>1679831822127</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679831822127</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Highest even">
+      <created>1679864754060</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1679864754060</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Map, filter">
+      <created>1679894470346</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679894470346</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Zip">
+      <created>1679894780182</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1679894780182</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Reduce">
+      <created>1679895645288</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1679895645288</updated>
+    </task>
+    <task id="LOCAL-00036" summary="List comprehention">
+      <created>1679952254306</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1679952254306</updated>
+    </task>
+    <task id="LOCAL-00037" summary="set and dictionary comprehension">
+      <created>1679953335150</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1679953335150</updated>
+    </task>
+    <task id="LOCAL-00038" summary="comprehension exercise">
+      <created>1679953842478</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1679953842478</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,28 +412,34 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LongString" />
-    <MESSAGE value="#Escape Sequence in Python" />
-    <MESSAGE value="Formatted String" />
-    <MESSAGE value="Strings indexers" />
-    <MESSAGE value="Strings indexers full" />
-    <MESSAGE value="String immutability check" />
-    <MESSAGE value="Built-in functions" />
-    <MESSAGE value="Boolean" />
-    <MESSAGE value="Age calculate" />
-    <MESSAGE value="Password Username" />
-    <MESSAGE value="List" />
-    <MESSAGE value="List slicing" />
-    <MESSAGE value="List Methods" />
     <MESSAGE value="List sort and sorted()" />
     <MESSAGE value="List sort and reverse()" />
     <MESSAGE value=".join()" />
     <MESSAGE value="List Unpacking" />
     <MESSAGE value="Dictionary" />
     <MESSAGE value="Key properties in Dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Key properties in Dictionary" />
+    <MESSAGE value="Dictionary.get('')" />
+    <MESSAGE value="Dictionary built-in methods" />
+    <MESSAGE value="Tuples" />
+    <MESSAGE value="Sets" />
+    <MESSAGE value="#Sets methods" />
+    <MESSAGE value="Conditions" />
+    <MESSAGE value="Ternary Condition" />
+    <MESSAGE value="is operator" />
+    <MESSAGE value="for loops" />
+    <MESSAGE value="Range" />
+    <MESSAGE value="RangeFirst GUI in python" />
+    <MESSAGE value="Duplicates" />
+    <MESSAGE value="Highest even" />
+    <MESSAGE value="Map, filter" />
+    <MESSAGE value="Zip" />
+    <MESSAGE value="Reduce" />
+    <MESSAGE value="List comprehention" />
+    <MESSAGE value="set and dictionary comprehension" />
+    <MESSAGE value="comprehension exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="comprehension exercise" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Basic_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1679747691765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Basic_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1679953800029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

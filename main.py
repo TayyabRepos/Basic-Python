@@ -1,6 +1,6 @@
-#comprehension exercise
-some_list = [1,1,2,3,4,4,5,5,3,1,2,3,4,1,6,6]
+#Modules
 
-duplicates = set([dubplicate for dubplicate in some_list if some_list.count(dubplicate)>1  ])
+import utility as uty
 
-print(duplicates)
+print(uty.multiply(2,2))
+print(uty.divide(2,2))
